@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# ModelNet40PLY is too large for GH
+**/ModelNet40_PLY.zip

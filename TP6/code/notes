@@ -1,0 +1,21 @@
+PointnetFull
+250 epochs : 86.7%, 8302s, loss = 0.160(40)
+250 epochs : 90.7%, 3343s, loss = 0.010 (10)
+25 epochs : 89.8%, 2072s( on battery), loss = 0.046 (10 classes)
+25 epochs : 84.4%, 903s( on battery), loss = 0.185 (10 classes)
+
+PointNet mini:
+25 epochs : 88.5%, 163s, loss= 0.046 (10 classes)
+25 epochs : 81.6%, 408s, loss= 0.221 (40 classes)
+250 epochs : 86.6%, 3932s, loss= 0.206 (40 classes)
+250 epochs : 90.2%, 3932s, loss= 0.004 (10 classes)
+
+
+PointMLP:
+25 epochs : 15.2%, 295s, loss= 2.590 (40)
+25 epochs : 22.0%, 123s, loss= 1.592 (10)
+250 epochs : 25.1%, 1076s, loss= 1.685 (10)
+250 epochs : 17.2%, 2635s, loss= 2.755 (40)
+
+
+
